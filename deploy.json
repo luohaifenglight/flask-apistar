@@ -1,0 +1,31 @@
+{
+  "preview": {
+    "cpus": 0.1,
+    "mem": 256,
+    "instances": 1,
+    "portMappings": "80:0",
+    "paas_routing_rule": {
+      "service": "your service name",
+      "prefixroutings": [
+        {
+          "path": "/clannad/"
+        }
+      ]
+    }
+  },
+  "prod": {
+    "cpus": 0.1,
+    "mem": 256,
+    "instances": 1,
+    "portMappings": "80:0",
+    "paas_routing_rule": {
+      "service": "you service name",
+      "prefixroutings": [
+        {
+          "path": "/clannad/"
+        }
+      ]
+    }
+  }
+}
+
