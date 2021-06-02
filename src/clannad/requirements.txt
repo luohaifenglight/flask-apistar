@@ -90,7 +90,7 @@ tox==3.7.0
 twilio==6.23.1
 tzlocal==1.5.1
 ua-parser==0.8.0
-urllib3==1.24.1
+urllib3==1.26.5
 user-agents==1.1.0
 vine==1.2.0
 virtualenv==16.4.3
