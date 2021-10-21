@@ -7,7 +7,7 @@ APScheduler==3.5.3
 archsdk==18.0.6
 asn1crypto==0.24.0
 attrs==19.1.0
-Babel==2.6.0
+Babel==2.9.1
 billiard==3.5.0.5
 blinker==1.4
 captcha==0.3
