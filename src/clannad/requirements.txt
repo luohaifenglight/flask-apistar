@@ -63,7 +63,7 @@ mongoengine==0.17.0
 passlib==1.7.1
 pbr==5.1.1
 pdfkit==0.6.1
-Pillow==5.4.1
+Pillow==9.0.1
 pluggy==0.9.0
 py==1.8.0
 pycparser==2.19
